@@ -1,10 +1,10 @@
-# test-project
+# Intensive Programming
 
-> A Vue.js project
+> Flshcards Memorizing Platform
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
